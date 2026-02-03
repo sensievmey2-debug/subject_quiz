@@ -1,0 +1,704 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.pinimg.com/1200x/26/72/cd/2672cd368fc2e6ae255262fadba848c1.jpg",
+        "name": "Math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "2+2+4+8+16+32+64+128",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "256",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "167",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "999",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "265",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://i.pinimg.com/1200x/36/d0/b0/36d0b051a2dc202a186501e7b476fb87.jpg",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "តើអង្គធាតុណាដែលជាឯកតាមូលដ្ឋាននៃជីវិត?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "កោសិកា",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "អាតូម",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "សរីរាង្គ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ដកដង្ហើម",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "តើរុក្ខជាតិបង្កើតអាហារដោយដំណើរការអ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ដកដង្ហើម",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "រលាយអាហារ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ការបង្កើតសាច់",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "រូបសម្ព័ន្ធអាហារ",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "តើមុខងារសំខាន់របស់ឈាមគឺអ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "បង្កើតថាមពល",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ដឹកជញ្ចុនអុកស៊ីសែន នឹងសារធាតុចិញ្ចឺម",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "រំលាយអាហារ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "បំបែកជាតិពុល",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://i.pinimg.com/1200x/22/72/2b/22722b33f4d7e9d810c6bce2fe678128.jpg",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "តើអ្វីជាសញ្ញាគីមីរបស់ទឹក",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "H2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "O2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CO2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+      {
+        "id": 4,
+        "img": "https://i.pinimg.com/1200x/73/0a/c5/730ac56713727965333dcb96ea07bcd2.jpg",
+        "name": "Physical",
+        "questions": [
+            {
+                "id": 1,
+                "text": "តើថាមពលមិនអាចបង្កើត ឬ បំផ្លាញបាន គឺជាច្បាប់អ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ច្បាប់ថាមពលសន្សំ",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ច្បាប់ន្យូតុង",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ច្បាប់ទំនាញ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ច្បាប់អគ្គិសនី",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "តើអ្វីជាឧបករណ៍សម្រាប់វាស់ចរន្តអគ្គិសនី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "វ៉ុលមែត្រ (Voltmeter)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "បារ៉ូមែត្រ (Barometer)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "អាម៉ែត្រ (Ammeter)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "តែម៉ូម៉ែត្រ (Thermometer)",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "តើល្បឿនពន្លឺក្នុងអាកាសប្រហែលប៉ុន្មាន?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3 × 10² m/s",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "3 × 10⁴ m/s",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3 × 10⁶ m/s",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "3 × 10⁸ m/s",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "តើអ្វីជាឯកតានៃកម្លាំង (Force)?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ម៉ែត្រ (m)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": ". គីឡូក្រាម (kg)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ន្យូតុង (N)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "វ៉ាត់ (W)",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://i.pinimg.com/1200x/77/e0/fd/77e0fda305734f2a8d9f65ccb35d2e1a.jpg",
+        "name": "English",
+        "questions": [
+            {
+                "id": 1,
+                "text": "ពាក្យ “Beautiful” មានន័យថាអ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "អាក្រក់",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ស្អាត",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ខ្ពស់",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "តូច",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "តើពាក្យណាជា Past Tense របស់ “Go”?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Goat",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Went",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Gone",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Going",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "តើប្រយោគណាត្រឹមត្រូវតាម Grammar? ",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "She go to school every day.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "She goes to school every day.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "She going to school every day.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "She gone to school every day.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "ពាក្យ “Apple” ជាប្រភេទពាក្យអ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Verb",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Adjective",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Noun",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Adverb",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":6,
+        "img": "https://i.pinimg.com/736x/02/47/44/024744e8aca56cee7a43c73c894e0dde.jpg",
+        "name": "History",
+        "questions": [
+            {
+                "id": 1,
+                "text": "តើសម័យអង្គរ ជាសម័យដែលរីកចម្រើនខ្លាំងក្នុងវិស័យអ្វី?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "សិល្បៈ និង ស្ថាបត្យកម្ម",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ឧស្សាហ៍កម្ម",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "បច្ចេកវិទ្យា",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "វិទ្យាសាស្ត្រ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "តើប្រទេសកម្ពុជាទទួលបានឯករាជ្យពីបារាំងនៅឆ្នាំណា?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ឆ្នាំ ១៩៤៥",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ឆ្នាំ ១៩៥៣",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ឆ្នាំ ១៩៦៣",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ឆ្នាំ ១៩៧៥",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "តើអង្គរធំ ត្រូវបានស្ថាបនាដោយព្រះបាទណា?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "​ព្រះបាទនរោត្តម",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ព្រះបាទសូរ្យវរ្ម័នទី២",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ព្រះបាទអង្គឌួង",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ព្រះបាទជ័យវរ្ម័នទី៧",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "តើអង្គរវត្ត ត្រូវបានកសាងនៅសម័យព្រះបាទអង្គឌួង ឬ ព្រះបាទសូរ្យវរ្ម័នទី២?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "ព្រះបាទសូរ្យវរ្ម័នទី២",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ព្រះបាទជ័យវរ្ម័នទី៧",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ព្រះបាទអង្គឌួង",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ព្រះបាទនរោត្តម",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
