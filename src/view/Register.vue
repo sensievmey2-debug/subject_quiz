@@ -16,41 +16,33 @@ const resetForm = () => {
     }
 }
 
-const toRegister = () => {
-    router.push('/register')
+const toLogin = () => {
+    router.push('/login')
 }
 
-const onLogin = async () => {
+const onRegister = async () => {
     if(form.value.username != null && form.value.password != null){
-        let dataLocalstorage = JSON.parse(localStorage.getItem('user'))
-
-        if(dataLocalstorage == null){
-            window.alert('user is not found');
-        }else {
-            if(form.value.username == dataLocalstorage.username && form.value.password == dataLocalstorage.password){
-                router.push('/');
-                
-                localStorage.setItem('user', JSON.stringify({
-                    ...dataLocalstorage,
-                    is_authentication: true
-                }));
-
-                resetForm();
-            }else {
-                window.alert('username or password is incorrect')
-            }
+        let data = {
+            username:form.value.username,
+            password:form.value.password,
+            is_authentication:form.value.is_authentication
         }
+        // save to localstorage
+        localStorage.setItem('user',JSON.stringify(data))
+
+        router.push('/login')
+
+        resetForm()
     }else {
         window.alert('username or password is empty')
     }
 } 
-
 </script>
 <template>
     <div class="main-layout">
         <div class="card-login">
             <div class="card">
-                <h4>Login Form</h4>
+                <h4>Register Form</h4>
                 <div class="form">
                     <div class="form_group">
                         <label>Username</label>
@@ -62,11 +54,11 @@ const onLogin = async () => {
                     </div>
                     
                     <div class="btn">
-                        <button @click="onLogin" class="btn-submit">Login</button>
+                        <button class="btn-submit" @click.prevent="onRegister">Register</button>
                     </div>
                     <span style="text-align: center;">
-                        if you dont have account! here click
-                        <a style="cursor: pointer;color: lightskyblue;" @click="toRegister">register</a>
+                        if you already have account! here click
+                        <a style="cursor: pointer;color: lightskyblue;" @click="toLogin">login</a>
                     </span>
                 </div>
             </div>
