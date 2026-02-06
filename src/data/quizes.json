@@ -253,60 +253,60 @@
             },
             {
                 "id": 4,
-                "text": "Which is not organinc",
+                "text": "តើសមាសធាតុសំខាន់បំផុតសម្រាប់ជីវិតគឺអ្វី?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "កាបូនដាញ់ (Carbon dioxide)",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
+                        "text": "ស្ករ (Sugar)",
+                        "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
+                        "text": "ដែក (Iron)",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
-                        "isCorrect": false
+                        "text": "ទឹក (Water)",
+                        "isCorrect": true
                     }
                 ]
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "តើសារពាង្គកាយណាដែលមានមុខងារបំបែកអាហារ និងស្រូបសារធាតុអាហារ?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "សួត (Heart)",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
+                        "text": "ខួរ (Brain)",
+                        "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
-                        "isCorrect": false
+                        "text": "ពោះវៀន (Stomach)",
+                        "isCorrect":true
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "សន្លាក់ (Lungs)",
                         "isCorrect": false
                     }
                 ]
