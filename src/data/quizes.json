@@ -126,30 +126,30 @@
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "(50+50+50+50)/50-4",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "50",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
+                        "text": "0",
                         "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
+                        "text": "4",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "200",
                         "isCorrect": false
                     }
                 ]
@@ -350,67 +350,67 @@
             },
             {
                 "id": 2,
-                "text": "",
+                "text": "តើអុកស៊ីសែនជាធាតុប្រភេទណា?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "P",
+                        "text": "លោហៈ",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "Pt",
-                        "isCorrect": false
+                        "text": "មិនមែនលោហៈ",
+                        "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "Pts",
+                        "text": "ធាតុផ្សំ",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "K",
-                        "isCorrect": true
+                        "text": "ល្បាយ",
+                        "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "Which is not organinc",
+                "text": "តើ NaCl គេហៅថាអ្វី?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "ស្ករ",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
+                        "text": "អាស៊ីត",
+                        "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
+                        "text": "ទឹក",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
-                        "isCorrect": false
+                        "text": "អំបិល",
+                        "isCorrect": true
                     }
                 ]
             },
             {
                 "id": 4,
-                "text": "Which is not organinc",
+                "text": "តើអ្វីខុសពីសារធាតុ organinc ?",
                 "options": [
                     {
                         "id": 1,
@@ -440,30 +440,30 @@
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "តើអាស៊ីត HCl មានឈ្មោះថាអ្វី?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "អាស៊ីតស៊ុលហ្វូរីក",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
+                        "text": "អាស៊ីតហ៊ីដ្រូក្លូរីក",
                         "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
+                        "text": "អាស៊ីតនីត្រីក",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "អាស៊ីតកាបូនិក",
                         "isCorrect": false
                     }
                 ]
@@ -597,30 +597,30 @@
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "តើអ្វីជាឯកតាវាស់ល្បឿន (Speed) ក្នុងប្រព័ន្ធ SI?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "ម៉ែត្រ (m)",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
+                        "text": "វិនាទី (s)",
+                        "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
-                        "isCorrect": false
+                        "text": "ម៉ែត្រ/វិនាទី (m/s)",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "គីឡូក្រាម (kg)",
                         "isCorrect": false
                     }
                 ]
@@ -754,30 +754,30 @@
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "ពាក្យ “Teacher” មានន័យថាអ្វី?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "សិស្ស",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
+                        "text": "គ្រូបង្រៀន",
                         "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
+                        "text": "គ្រូពេទ្យ",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "មិត្តភក្តិ",
                         "isCorrect": false
                     }
                 ]
@@ -911,30 +911,30 @@
             },
             {
                 "id": 5,
-                "text": "Which is not organinc",
+                "text": "តើរាជធានីដំបូងបង្អស់នៃអាណាចក្រខ្មែរគឺទីណា?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "CH4",
+                        "text": "អង្គរ",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
+                        "text": "ឧដុង្គ",
+                        "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "C2H6",
-                        "isCorrect": false
+                        "text": "នគរភ្នំ",
+                        "isCorrect": true
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "C3H8",
+                        "text": "លង្វែក",
                         "isCorrect": false
                     }
                 ]

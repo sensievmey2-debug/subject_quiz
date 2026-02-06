@@ -17,6 +17,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Card from '../components/Card.vue'
 import QuizesView from '../view/QuizesView.vue'
 import QuizeView from '../view/QuizeView.vue'
+import Login from '../view/Login.vue'
 
 const routes = [
     {
@@ -27,6 +28,12 @@ const routes = [
         path: '/quiz/:id',
         component: QuizeView
     },
+    {
+        path: '/login',
+        component: Login
+    },
+
+
 ]
 
 const router = createRouter({
