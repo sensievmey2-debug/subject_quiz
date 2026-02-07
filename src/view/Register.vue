@@ -56,9 +56,9 @@ const onRegister = async () => {
                     <div class="btn">
                         <button class="btn-submit" @click.prevent="onRegister">Register</button>
                     </div>
-                    <span style="text-align: center;">
-                        if you already have account! here click
-                        <a style="cursor: pointer;color: lightskyblue;" @click="toLogin">login</a>
+                    <span style="text-align: center;font-family: 'Times New Roman', Times, serif; font-size: 18px;">
+                        If you already have account!  Here click
+                        <a style="cursor: pointer;color: lightskyblue; font-family: 'Times New Roman', Times, serif; font-size: 18px;" @click="toLogin">Login</a>
                     </span>
                 </div>
             </div>
@@ -76,7 +76,7 @@ const onRegister = async () => {
 
 .card-login{
     width: 30%;
-    height: 60%;
+    height: 75%;
     background-color:rgba(240, 58, 176, 0.953);
     border-radius: 9px;
     display: flex;
@@ -135,6 +135,7 @@ h4{
     border-radius: 6px;
     margin-top: 20px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 .btn-submit:hover{
     background-color: gray;

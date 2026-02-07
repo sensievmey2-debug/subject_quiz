@@ -64,12 +64,12 @@ const onLogin = async () => {
                     <div class="btn">
                         <button @click="onLogin" class="btn-submit">Login</button>
                     </div>
-                    <span style="text-align: center;">
-                        if you dont have account! here click
-                        <a style="cursor: pointer;color: lightskyblue;" @click="toRegister">register</a>
+                    <span style="text-align: center; font-family: 'Times New Roman', Times, serif; font-size: 18px;">
+                        If you don't have account!  Here click
+                        <a style="cursor: pointer;color: lightskyblue; font-family: 'Times New Roman', Times, serif; font-size: 18px;" @click="toRegister">Register</a>
                     </span>
                 </div>
-            </div>
+            </div> 
         </div>
     </div>
 </template>
@@ -84,7 +84,7 @@ const onLogin = async () => {
 
 .card-login{
     width: 30%;
-    height: 60%;
+    height: 75%;
     background-color:rgba(240, 58, 176, 0.953);
     border-radius: 9px;
     display: flex;
@@ -143,6 +143,7 @@ h4{
     border-radius: 6px;
     margin-top: 20px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 .btn-submit:hover{
     background-color: gray;
